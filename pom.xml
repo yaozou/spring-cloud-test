@@ -8,5 +8,11 @@
     <artifactId>spring-cloud</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    
+    <modules>
+        <module>discovery</module>
+        <module>inner-api</module>
+        <module>merchandise-api</module>
+        <module>order-api</module>
+        <module>user-api</module>
+    </modules>
 </project>

@@ -6,6 +6,7 @@
 
     <groupId>com.yao</groupId>
     <artifactId>spring-cloud</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <modules>
@@ -14,6 +15,7 @@
         <module>merchandise-api</module>
         <module>order-api</module>
         <module>user-api</module>
+        <module>hystrix-dashboard</module>
     </modules>
 
     <parent>

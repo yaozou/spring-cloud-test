@@ -7,4 +7,8 @@ package com.yao.service.proxy.api.uer;
  */
 public class UserFeignFallback implements IUserProvider  {
 
+    @Override
+    public String test() {
+        return "error";
+    }
 }

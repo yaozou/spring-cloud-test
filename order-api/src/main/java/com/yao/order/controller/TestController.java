@@ -2,6 +2,7 @@ package com.yao.order.controller;/**
  * created by yaozou on 2018/7/17
  */
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

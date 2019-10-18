@@ -8,7 +8,5 @@ package com.yao.service.proxy.api;/**
  * @create 2018-07-17 17:05
  **/
 public interface IProxyProvider {
-    String USER_FEFIN = "user-api";
-    String MERCHANDISE_FEGIN = "merchandise-api";
-    String ORDER_FEGIN = "order-api";
+    String USER_FEIGN = "user-api";
 }
